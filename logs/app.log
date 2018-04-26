@@ -1,0 +1,43 @@
+[2017-05-18 01:46:58] slim-app.INFO: Reply text: Hello,world [] {"uid":"17b8c5c"}
+[2017-05-18 01:46:59] slim-app.INFO: 400: {"message":"Invalid reply token"} [] {"uid":"17b8c5c"}
+[2017-05-18 01:46:59] slim-app.INFO: Non text message has come [] {"uid":"17b8c5c"}
+[2017-05-18 01:48:10] slim-app.INFO: Reply text: F [] {"uid":"d11635b"}
+[2017-05-18 01:48:11] slim-app.INFO: 200: {} [] {"uid":"d11635b"}
+[2017-05-18 02:02:51] slim-app.INFO: Reply text: Hello,world [] {"uid":"dfe3166"}
+[2017-05-18 02:02:52] slim-app.INFO: 400: {"message":"Invalid reply token"} [] {"uid":"dfe3166"}
+[2017-05-18 02:02:52] slim-app.INFO: Non text message has come [] {"uid":"dfe3166"}
+[2017-05-18 02:07:04] slim-app.INFO: Reply text: Location [] {"uid":"bf7dfce"}
+[2017-05-18 02:07:05] slim-app.INFO: 200: {} [] {"uid":"bf7dfce"}
+[2017-05-18 02:19:05] slim-app.INFO: Reply text: F [] {"uid":"14655c2"}
+[2017-05-18 02:19:06] slim-app.INFO: 200: {} [] {"uid":"14655c2"}
+[2017-05-18 02:20:15] slim-app.INFO: Reply text: Location [] {"uid":"7f6dd74"}
+[2017-05-18 02:20:16] slim-app.INFO: 200: {} [] {"uid":"7f6dd74"}
+[2017-05-18 02:21:20] slim-app.INFO: Reply text: G [] {"uid":"1cf887e"}
+[2017-05-18 02:21:21] slim-app.INFO: 200: {} [] {"uid":"1cf887e"}
+[2017-05-18 02:23:46] slim-app.INFO: Reply text: D [] {"uid":"3bd25fe"}
+[2017-05-18 02:23:52] slim-app.INFO: Reply text: G [] {"uid":"16af892"}
+[2017-05-18 02:23:52] slim-app.INFO: 200: {} [] {"uid":"3bd25fe"}
+[2017-05-18 02:23:53] slim-app.INFO: 200: {} [] {"uid":"16af892"}
+[2017-05-18 02:24:01] slim-app.INFO: Reply text: F [] {"uid":"9d2921d"}
+[2017-05-18 02:24:02] slim-app.INFO: 200: {} [] {"uid":"9d2921d"}
+[2017-05-18 02:26:07] slim-app.INFO: Reply text: D [] {"uid":"ac5faab"}
+[2017-05-18 02:26:08] slim-app.INFO: 200: {} [] {"uid":"ac5faab"}
+[2017-05-18 02:37:22] slim-app.INFO: Postback message has come [] {"uid":"e9c0d29"}
+[2017-05-18 02:37:23] slim-app.INFO: Postback message has come [] {"uid":"9a21422"}
+[2017-05-18 02:37:24] slim-app.INFO: Postback message has come [] {"uid":"52858d6"}
+[2017-05-18 02:37:24] slim-app.INFO: Postback message has come [] {"uid":"cdd9cd6"}
+[2017-05-18 02:37:24] slim-app.INFO: Postback message has come [] {"uid":"cdd9cd6"}
+[2017-05-18 02:37:24] slim-app.INFO: Postback message has come [] {"uid":"cdd9cd6"}
+[2017-05-18 02:37:24] slim-app.INFO: Postback message has come [] {"uid":"45415e4"}
+[2017-05-18 02:37:25] slim-app.INFO: Postback message has come [] {"uid":"7d740ba"}
+[2017-05-18 03:07:39] slim-app.INFO: Postback message has come [] {"uid":"7bf8fee"}
+[2017-05-18 03:07:41] slim-app.INFO: Postback message has come [] {"uid":"eb87fd9"}
+[2017-06-21 18:45:12] slim-app.INFO: Postback message has come [] {"uid":"79e7e15"}
+[2017-06-21 18:45:13] slim-app.INFO: Postback message has come [] {"uid":"7b83c56"}
+[2017-06-21 18:45:13] slim-app.INFO: Postback message has come [] {"uid":"f437217"}
+[2017-06-21 18:45:13] slim-app.INFO: Postback message has come [] {"uid":"f437217"}
+[2017-06-21 18:45:13] slim-app.INFO: Postback message has come [] {"uid":"d564fee"}
+[2017-06-22 01:57:45] slim-app.INFO: Postback message has come [] {"uid":"53cc2d9"}
+[2017-06-22 01:57:47] slim-app.INFO: Postback message has come [] {"uid":"0d6722f"}
+[2017-06-22 01:57:48] slim-app.INFO: Postback message has come [] {"uid":"91f00fa"}
+[2017-06-22 01:57:48] slim-app.INFO: Postback message has come [] {"uid":"063144c"}

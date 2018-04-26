@@ -1,0 +1,954 @@
+[17-May-2017 14:55:47 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 14:55:47 UTC] PHP Stack trace:
+[17-May-2017 14:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 14:55:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 14:55:47 UTC] PHP Stack trace:
+[17-May-2017 14:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 15:41:18 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 15:41:18 UTC] PHP Stack trace:
+[17-May-2017 15:41:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 15:41:18 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 15:41:18 UTC] PHP Stack trace:
+[17-May-2017 15:41:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 15:42:17 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 15:42:17 UTC] PHP Stack trace:
+[17-May-2017 15:42:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 15:42:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 15:42:17 UTC] PHP Stack trace:
+[17-May-2017 15:42:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 15:42:22 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 15:42:22 UTC] PHP Stack trace:
+[17-May-2017 15:42:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 15:42:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 15:42:22 UTC] PHP Stack trace:
+[17-May-2017 15:42:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 15:42:23 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 15:42:23 UTC] PHP Stack trace:
+[17-May-2017 15:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 15:42:23 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 15:42:23 UTC] PHP Stack trace:
+[17-May-2017 15:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 15:51:12 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 15:51:12 UTC] PHP Stack trace:
+[17-May-2017 15:51:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 15:51:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 15:51:12 UTC] PHP Stack trace:
+[17-May-2017 15:51:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:00:47 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:00:47 UTC] PHP Stack trace:
+[17-May-2017 16:00:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:00:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:00:47 UTC] PHP Stack trace:
+[17-May-2017 16:00:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:12:22 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/EchoBot/public/index.php on line 25
+[17-May-2017 16:12:22 UTC] PHP Stack trace:
+[17-May-2017 16:12:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:13:18 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/EchoBot/public/index.php on line 25
+[17-May-2017 16:13:18 UTC] PHP Stack trace:
+[17-May-2017 16:13:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:17:46 UTC] PHP Fatal error:  Class 'LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/EchoBot/public/index.php on line 25
+[17-May-2017 16:17:46 UTC] PHP Stack trace:
+[17-May-2017 16:17:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:18:58 UTC] PHP Fatal error:  Class 'week2\LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/EchoBot/public/index.php on line 25
+[17-May-2017 16:18:58 UTC] PHP Stack trace:
+[17-May-2017 16:18:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:20:27 UTC] PHP Fatal error:  Class 'home\ubuntu\workspace\LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/EchoBot/public/index.php on line 25
+[17-May-2017 16:20:27 UTC] PHP Stack trace:
+[17-May-2017 16:20:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:24:28 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:24:28 UTC] PHP Stack trace:
+[17-May-2017 16:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:24:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:24:28 UTC] PHP Stack trace:
+[17-May-2017 16:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:26:50 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:26:50 UTC] PHP Stack trace:
+[17-May-2017 16:26:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:26:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:26:50 UTC] PHP Stack trace:
+[17-May-2017 16:26:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:27:30 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:27:30 UTC] PHP Stack trace:
+[17-May-2017 16:27:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:27:30 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:27:30 UTC] PHP Stack trace:
+[17-May-2017 16:27:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:30:28 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:30:28 UTC] PHP Stack trace:
+[17-May-2017 16:30:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:30:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:30:28 UTC] PHP Stack trace:
+[17-May-2017 16:30:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:31:49 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/home/ubuntu/workspace/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:31:49 UTC] PHP Stack trace:
+[17-May-2017 16:31:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:31:49 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/home/ubuntu/workspace/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:31:49 UTC] PHP Stack trace:
+[17-May-2017 16:31:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:33:35 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/././vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:33:35 UTC] PHP Stack trace:
+[17-May-2017 16:33:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:33:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/././vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:33:35 UTC] PHP Stack trace:
+[17-May-2017 16:33:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:34:28 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:34:28 UTC] PHP Stack trace:
+[17-May-2017 16:34:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:34:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:34:28 UTC] PHP Stack trace:
+[17-May-2017 16:34:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:34:59 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:34:59 UTC] PHP Stack trace:
+[17-May-2017 16:34:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:34:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:34:59 UTC] PHP Stack trace:
+[17-May-2017 16:34:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:35:43 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:35:43 UTC] PHP Stack trace:
+[17-May-2017 16:35:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:35:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:35:43 UTC] PHP Stack trace:
+[17-May-2017 16:35:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:36:04 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:36:04 UTC] PHP Stack trace:
+[17-May-2017 16:36:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:36:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:36:04 UTC] PHP Stack trace:
+[17-May-2017 16:36:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:37:07 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:37:07 UTC] PHP Stack trace:
+[17-May-2017 16:37:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:37:07 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:37:07 UTC] PHP Stack trace:
+[17-May-2017 16:37:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:37:10 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:37:10 UTC] PHP Stack trace:
+[17-May-2017 16:37:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:37:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 16:37:10 UTC] PHP Stack trace:
+[17-May-2017 16:37:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:37:40 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/EchoBot/public/index.php on line 25
+[17-May-2017 16:37:40 UTC] PHP Stack trace:
+[17-May-2017 16:37:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:38:44 UTC] PHP Fatal error:  Class 'LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/EchoBot/public/index.php on line 25
+[17-May-2017 16:38:44 UTC] PHP Stack trace:
+[17-May-2017 16:38:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:42:37 UTC] PHP Fatal error:  Class 'LINE\src\LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/EchoBot/public/index.php on line 25
+[17-May-2017 16:42:37 UTC] PHP Stack trace:
+[17-May-2017 16:42:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:45:13 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/EchoBot/public/index.php on line 25
+[17-May-2017 16:45:13 UTC] PHP Stack trace:
+[17-May-2017 16:45:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 16:59:22 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/EchoBot/public/index.php on line 25
+[17-May-2017 16:59:22 UTC] PHP Stack trace:
+[17-May-2017 16:59:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:01:27 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:01:27 UTC] PHP Stack trace:
+[17-May-2017 17:01:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:01:27 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:01:27 UTC] PHP Stack trace:
+[17-May-2017 17:01:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:10:04 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:10:04 UTC] PHP Stack trace:
+[17-May-2017 17:10:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:10:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:10:04 UTC] PHP Stack trace:
+[17-May-2017 17:10:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:12:17 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:12:17 UTC] PHP Stack trace:
+[17-May-2017 17:12:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:12:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:12:17 UTC] PHP Stack trace:
+[17-May-2017 17:12:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:12:28 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:12:28 UTC] PHP Stack trace:
+[17-May-2017 17:12:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:12:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:12:28 UTC] PHP Stack trace:
+[17-May-2017 17:12:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:12:35 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:12:35 UTC] PHP Stack trace:
+[17-May-2017 17:12:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:12:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:12:35 UTC] PHP Stack trace:
+[17-May-2017 17:12:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:12:45 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:12:45 UTC] PHP Stack trace:
+[17-May-2017 17:12:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:12:45 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:12:45 UTC] PHP Stack trace:
+[17-May-2017 17:12:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:13:42 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:13:42 UTC] PHP Stack trace:
+[17-May-2017 17:13:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:13:42 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:13:42 UTC] PHP Stack trace:
+[17-May-2017 17:13:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:13:58 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:13:58 UTC] PHP Stack trace:
+[17-May-2017 17:13:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:13:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../../../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:13:58 UTC] PHP Stack trace:
+[17-May-2017 17:13:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:14:20 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:14:20 UTC] PHP Stack trace:
+[17-May-2017 17:14:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:14:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/EchoBot/public/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/EchoBot/public/index.php on line 23
+[17-May-2017 17:14:20 UTC] PHP Stack trace:
+[17-May-2017 17:14:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[17-May-2017 17:14:45 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/EchoBot/public/index.php on line 25
+[17-May-2017 17:14:45 UTC] PHP Stack trace:
+[17-May-2017 17:14:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[18-May-2017 01:21:44 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/EchoBot/public/index.php on line 25
+[18-May-2017 01:21:44 UTC] PHP Stack trace:
+[18-May-2017 01:21:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/EchoBot/public/index.php:0
+[18-May-2017 01:23:49 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/public/index.php on line 25
+[18-May-2017 01:23:49 UTC] PHP Stack trace:
+[18-May-2017 01:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 01:30:13 UTC] PHP Fatal error:  Class 'src\LINEBot\EchoBot\Setting' not found in /home/ubuntu/workspace/public/index.php on line 25
+[18-May-2017 01:30:13 UTC] PHP Stack trace:
+[18-May-2017 01:30:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:17:28 UTC] parseEventRequest failed. InvalidSignatureException => LINE\LINEBot\Exception\InvalidSignatureException::__set_state(array(
+   'message' => 'Invalid signature has given',
+   'string' => '',
+   'code' => 0,
+   'file' => '/home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot/Event/Parser/EventRequestParser.php',
+   'line' => 65,
+   'trace' => 
+  array (
+    0 => 
+    array (
+      'file' => '/home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php',
+      'line' => 193,
+      'function' => 'parseEventRequest',
+      'class' => 'LINE\\LINEBot\\Event\\Parser\\EventRequestParser',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => '{"events":[{"type":"message","replyToken":"34694b93836043f48424e6280974aca3","source":{"userId":"U5ba707a8214d481314ff26db6d284c62","type":"user"},"timestamp":1495073847474,"message":{"type":"text","id":"6102180222278","text":"Location"}}]}',
+        1 => NULL,
+        2 => 'qopXUWfJcnJ54WTbbtDft1a0Q23TbKQkswrOhY4von8=',
+      ),
+    ),
+    1 => 
+    array (
+      'file' => '/home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php',
+      'line' => 12,
+      'function' => 'parseEventRequest',
+      'class' => 'LINE\\LINEBot',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => '{"events":[{"type":"message","replyToken":"34694b93836043f48424e6280974aca3","source":{"userId":"U5ba707a8214d481314ff26db6d284c62","type":"user"},"timestamp":1495073847474,"message":{"type":"text","id":"6102180222278","text":"Location"}}]}',
+        1 => 'qopXUWfJcnJ54WTbbtDft1a0Q23TbKQkswrOhY4von8=',
+      ),
+    ),
+    2 => 
+    array (
+      'file' => '/home/ubuntu/workspace/vendor/composer/ClassLoader.php',
+      'line' => 440,
+      'args' => 
+      array (
+        0 => '/home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php',
+      ),
+      'function' => 'include',
+    ),
+    3 => 
+    array (
+      'file' => '/home/ubuntu/workspace/vendor/composer/ClassLoader.php',
+      'line' => 322,
+      'function' => 'Composer\\Autoload\\includeFile',
+      'args' => 
+      array (
+        0 => '/home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php',
+      ),
+    ),
+    4 => 
+    array (
+      'function' => 'loadClass',
+      'class' => 'Composer\\Autoload\\ClassLoader',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'LINE\\LINEBot\\EchoBot\\Route',
+      ),
+    ),
+    5 => 
+    array (
+      'file' => '/home/ubuntu/workspace/public/index.php',
+      'line' => 29,
+      'function' => 'spl_autoload_call',
+      'args' => 
+      array (
+        0 => 'LINE\\LINEBot\\EchoBot\\Route',
+      ),
+    ),
+  ),
+   'previous' => NULL,
+   'xdebug_message' => '
+LINE\\LINEBot\\Exception\\InvalidSignatureException: Invalid signature has given in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot/Event/Parser/EventRequestParser.php on line 65
+
+Call Stack:
+    0.0026     240264   1. {main}() /home/ubuntu/workspace/public/index.php:0
+    0.0154     327800   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+    0.0154     327848   3. Composer\\Autoload\\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+    0.0154     327968   4. Composer\\Autoload\\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+    0.0159     329232   5. include(\'/home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php\') /home/ubuntu/workspace/vendor/composer/ClassLoader.php:440
+    0.0279     404872   6. LINE\\LINEBot->parseEventRequest() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:12
+    0.0284     409624   7. LINE\\LINEBot\\Event\\Parser\\EventRequestParser::parseEventRequest() /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php:193
+',
+))
+[18-May-2017 02:17:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 22
+[18-May-2017 02:17:28 UTC] PHP Stack trace:
+[18-May-2017 02:17:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:17:28 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:17:28 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:17:28 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[18-May-2017 02:17:28 UTC] PHP   5. include() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:440
+[18-May-2017 02:17:28 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\Route' not found in /home/ubuntu/workspace/public/index.php on line 29
+[18-May-2017 02:17:28 UTC] PHP Stack trace:
+[18-May-2017 02:17:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:18:04 UTC] parseEventRequest failed. InvalidSignatureException => LINE\LINEBot\Exception\InvalidSignatureException::__set_state(array(
+   'message' => 'Invalid signature has given',
+   'string' => '',
+   'code' => 0,
+   'file' => '/home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot/Event/Parser/EventRequestParser.php',
+   'line' => 65,
+   'trace' => 
+  array (
+    0 => 
+    array (
+      'file' => '/home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php',
+      'line' => 193,
+      'function' => 'parseEventRequest',
+      'class' => 'LINE\\LINEBot\\Event\\Parser\\EventRequestParser',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => '{"events":[{"type":"message","replyToken":"f390cdd8fbcb4a9d8010cd8e2e92517a","source":{"userId":"U5ba707a8214d481314ff26db6d284c62","type":"user"},"timestamp":1495073883700,"message":{"type":"text","id":"6102182167985","text":"Location"}}]}',
+        1 => NULL,
+        2 => '0k+FJBKl3uRNiln3syLvWNhayAOsmSTCfQ+qTenLdGI=',
+      ),
+    ),
+    1 => 
+    array (
+      'file' => '/home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php',
+      'line' => 12,
+      'function' => 'parseEventRequest',
+      'class' => 'LINE\\LINEBot',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => '{"events":[{"type":"message","replyToken":"f390cdd8fbcb4a9d8010cd8e2e92517a","source":{"userId":"U5ba707a8214d481314ff26db6d284c62","type":"user"},"timestamp":1495073883700,"message":{"type":"text","id":"6102182167985","text":"Location"}}]}',
+        1 => '0k+FJBKl3uRNiln3syLvWNhayAOsmSTCfQ+qTenLdGI=',
+      ),
+    ),
+    2 => 
+    array (
+      'file' => '/home/ubuntu/workspace/vendor/composer/ClassLoader.php',
+      'line' => 440,
+      'args' => 
+      array (
+        0 => '/home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php',
+      ),
+      'function' => 'include',
+    ),
+    3 => 
+    array (
+      'file' => '/home/ubuntu/workspace/vendor/composer/ClassLoader.php',
+      'line' => 322,
+      'function' => 'Composer\\Autoload\\includeFile',
+      'args' => 
+      array (
+        0 => '/home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php',
+      ),
+    ),
+    4 => 
+    array (
+      'function' => 'loadClass',
+      'class' => 'Composer\\Autoload\\ClassLoader',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'LINE\\LINEBot\\EchoBot\\Route',
+      ),
+    ),
+    5 => 
+    array (
+      'file' => '/home/ubuntu/workspace/public/index.php',
+      'line' => 29,
+      'function' => 'spl_autoload_call',
+      'args' => 
+      array (
+        0 => 'LINE\\LINEBot\\EchoBot\\Route',
+      ),
+    ),
+  ),
+   'previous' => NULL,
+   'xdebug_message' => '
+LINE\\LINEBot\\Exception\\InvalidSignatureException: Invalid signature has given in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot/Event/Parser/EventRequestParser.php on line 65
+
+Call Stack:
+    0.0011     240264   1. {main}() /home/ubuntu/workspace/public/index.php:0
+    0.0080     327800   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+    0.0080     327848   3. Composer\\Autoload\\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+    0.0080     327968   4. Composer\\Autoload\\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+    0.0085     329232   5. include(\'/home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php\') /home/ubuntu/workspace/vendor/composer/ClassLoader.php:440
+    0.0129     404872   6. LINE\\LINEBot->parseEventRequest() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:12
+    0.0133     409624   7. LINE\\LINEBot\\Event\\Parser\\EventRequestParser::parseEventRequest() /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php:193
+',
+))
+[18-May-2017 02:18:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 22
+[18-May-2017 02:18:04 UTC] PHP Stack trace:
+[18-May-2017 02:18:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:18:04 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:18:04 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:18:04 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[18-May-2017 02:18:04 UTC] PHP   5. include() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:440
+[18-May-2017 02:18:04 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\Route' not found in /home/ubuntu/workspace/public/index.php on line 29
+[18-May-2017 02:18:04 UTC] PHP Stack trace:
+[18-May-2017 02:18:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:22:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 127
+[18-May-2017 02:22:57 UTC] PHP Stack trace:
+[18-May-2017 02:22:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:22:57 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:22:57 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:22:57 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[18-May-2017 02:23:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 127
+[18-May-2017 02:23:00 UTC] PHP Stack trace:
+[18-May-2017 02:23:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:23:00 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:23:00 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:23:00 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[18-May-2017 02:23:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 127
+[18-May-2017 02:23:05 UTC] PHP Stack trace:
+[18-May-2017 02:23:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:23:05 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:23:05 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:23:05 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[18-May-2017 02:23:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 127
+[18-May-2017 02:23:31 UTC] PHP Stack trace:
+[18-May-2017 02:23:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:23:31 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:23:31 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:23:31 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[18-May-2017 02:24:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 127
+[18-May-2017 02:24:42 UTC] PHP Stack trace:
+[18-May-2017 02:24:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:24:42 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:24:42 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:24:42 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[18-May-2017 02:24:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 127
+[18-May-2017 02:24:51 UTC] PHP Stack trace:
+[18-May-2017 02:24:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:24:51 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:24:51 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:24:51 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[18-May-2017 02:24:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 127
+[18-May-2017 02:24:58 UTC] PHP Stack trace:
+[18-May-2017 02:24:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:24:58 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:24:58 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:24:58 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[18-May-2017 02:25:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 127
+[18-May-2017 02:25:04 UTC] PHP Stack trace:
+[18-May-2017 02:25:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:25:04 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:25:04 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:25:04 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[18-May-2017 02:25:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 127
+[18-May-2017 02:25:08 UTC] PHP Stack trace:
+[18-May-2017 02:25:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:25:08 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:25:08 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[18-May-2017 02:25:08 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[18-May-2017 02:31:34 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 110
+[18-May-2017 02:31:34 UTC] PHP Stack trace:
+[18-May-2017 02:31:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:31:34 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 02:31:34 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 02:31:34 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 02:31:34 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:31:34 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 02:31:34 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 02:31:34 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:31:34 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 02:31:34 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:31:34 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:33:39 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 110
+[18-May-2017 02:33:39 UTC] PHP Stack trace:
+[18-May-2017 02:33:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:33:39 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 02:33:39 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 02:33:39 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 02:33:39 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:33:39 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 02:33:39 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 02:33:39 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:33:39 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 02:33:39 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:33:39 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:33:50 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 110
+[18-May-2017 02:33:50 UTC] PHP Stack trace:
+[18-May-2017 02:33:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:33:50 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 02:33:50 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 02:33:50 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 02:33:50 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:33:50 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 02:33:50 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 02:33:50 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:33:50 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 02:33:50 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:33:50 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:35:48 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 110
+[18-May-2017 02:35:48 UTC] PHP Stack trace:
+[18-May-2017 02:35:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:35:48 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 02:35:48 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 02:35:48 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 02:35:48 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:35:48 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 02:35:48 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 02:35:48 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:35:48 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 02:35:48 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:35:48 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:36:51 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 110
+[18-May-2017 02:36:51 UTC] PHP Stack trace:
+[18-May-2017 02:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:36:51 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 02:36:51 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 02:36:51 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 02:36:51 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:36:51 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 02:36:51 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 02:36:51 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:36:51 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 02:36:51 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:36:51 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:40:40 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 110
+[18-May-2017 02:40:40 UTC] PHP Stack trace:
+[18-May-2017 02:40:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:40:40 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 02:40:40 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 02:40:40 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 02:40:40 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:40:40 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 02:40:40 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 02:40:40 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:40:40 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 02:40:40 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:40:40 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:40:46 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 110
+[18-May-2017 02:40:46 UTC] PHP Stack trace:
+[18-May-2017 02:40:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:40:46 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 02:40:46 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 02:40:46 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 02:40:46 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:40:46 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 02:40:46 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 02:40:46 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:40:46 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 02:40:46 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:40:46 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:44:14 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 110
+[18-May-2017 02:44:14 UTC] PHP Stack trace:
+[18-May-2017 02:44:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:44:14 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 02:44:14 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 02:44:14 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 02:44:14 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:44:14 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 02:44:14 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 02:44:14 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:44:14 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 02:44:14 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:44:14 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:45:55 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 110
+[18-May-2017 02:45:55 UTC] PHP Stack trace:
+[18-May-2017 02:45:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:45:55 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 02:45:55 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 02:45:55 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 02:45:55 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:45:55 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 02:45:55 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 02:45:55 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:45:55 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 02:45:55 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:45:55 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:49:00 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 110
+[18-May-2017 02:49:00 UTC] PHP Stack trace:
+[18-May-2017 02:49:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:49:00 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 02:49:00 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 02:49:00 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 02:49:00 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:49:00 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 02:49:00 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 02:49:00 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:49:00 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 02:49:00 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:49:00 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:49:04 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 110
+[18-May-2017 02:49:04 UTC] PHP Stack trace:
+[18-May-2017 02:49:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 02:49:04 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 02:49:04 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 02:49:04 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 02:49:04 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:49:04 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 02:49:04 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 02:49:04 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 02:49:04 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 02:49:04 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 02:49:04 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 03:06:02 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 111
+[18-May-2017 03:06:02 UTC] PHP Stack trace:
+[18-May-2017 03:06:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 03:06:02 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 03:06:02 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 03:06:02 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 03:06:02 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 03:06:02 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 03:06:02 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 03:06:02 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 03:06:02 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 03:06:02 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 03:06:02 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 03:06:07 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 111
+[18-May-2017 03:06:07 UTC] PHP Stack trace:
+[18-May-2017 03:06:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 03:06:07 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 03:06:07 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 03:06:07 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 03:06:07 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 03:06:07 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 03:06:07 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 03:06:07 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 03:06:07 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 03:06:07 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 03:06:07 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 03:07:29 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 111
+[18-May-2017 03:07:29 UTC] PHP Stack trace:
+[18-May-2017 03:07:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 03:07:29 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 03:07:29 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 03:07:29 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 03:07:29 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 03:07:29 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 03:07:29 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 03:07:29 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 03:07:29 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 03:07:29 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 03:07:29 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 03:13:46 UTC] PHP Fatal error:  Class 'LINE\LINEBot\EchoBot\LINE\LINEBot\MessageBuilder\ImageMessageBuilder' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 111
+[18-May-2017 03:13:46 UTC] PHP Stack trace:
+[18-May-2017 03:13:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[18-May-2017 03:13:46 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[18-May-2017 03:13:46 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[18-May-2017 03:13:46 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[18-May-2017 03:13:46 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 03:13:46 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[18-May-2017 03:13:46 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[18-May-2017 03:13:46 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[18-May-2017 03:13:46 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[18-May-2017 03:13:46 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[18-May-2017 03:13:46 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 17:38:26 UTC] PHP Catchable fatal error:  Object of class LINE\LINEBot\MessageBuilder\weather could not be converted to string in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 106
+[21-Jun-2017 17:38:26 UTC] PHP Stack trace:
+[21-Jun-2017 17:38:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 17:38:26 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[21-Jun-2017 17:38:26 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[21-Jun-2017 17:38:26 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[21-Jun-2017 17:38:26 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 17:38:26 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[21-Jun-2017 17:38:26 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[21-Jun-2017 17:38:26 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 17:38:26 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[21-Jun-2017 17:38:26 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 17:38:26 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 17:38:41 UTC] PHP Catchable fatal error:  Object of class LINE\LINEBot\MessageBuilder\weather could not be converted to string in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 106
+[21-Jun-2017 17:38:41 UTC] PHP Stack trace:
+[21-Jun-2017 17:38:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 17:38:41 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[21-Jun-2017 17:38:41 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[21-Jun-2017 17:38:41 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[21-Jun-2017 17:38:41 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 17:38:41 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[21-Jun-2017 17:38:41 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[21-Jun-2017 17:38:41 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 17:38:41 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[21-Jun-2017 17:38:41 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 17:38:41 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 17:39:46 UTC] PHP Catchable fatal error:  Argument 2 passed to LINE\LINEBot::replyMessage() must implement interface LINE\LINEBot\MessageBuilder, null given, called in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 167 and defined in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 91
+[21-Jun-2017 17:39:46 UTC] PHP Stack trace:
+[21-Jun-2017 17:39:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 17:39:46 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[21-Jun-2017 17:39:46 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[21-Jun-2017 17:39:46 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[21-Jun-2017 17:39:46 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 17:39:46 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[21-Jun-2017 17:39:46 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[21-Jun-2017 17:39:46 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 17:39:46 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[21-Jun-2017 17:39:46 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 17:39:46 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 17:39:46 UTC] PHP  12. LINE\LINEBot->replyMessage() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:167
+[21-Jun-2017 17:40:03 UTC] PHP Catchable fatal error:  Argument 2 passed to LINE\LINEBot::replyMessage() must implement interface LINE\LINEBot\MessageBuilder, null given, called in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 167 and defined in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 91
+[21-Jun-2017 17:40:03 UTC] PHP Stack trace:
+[21-Jun-2017 17:40:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 17:40:03 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[21-Jun-2017 17:40:03 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[21-Jun-2017 17:40:03 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[21-Jun-2017 17:40:03 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 17:40:03 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[21-Jun-2017 17:40:03 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[21-Jun-2017 17:40:03 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 17:40:03 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[21-Jun-2017 17:40:03 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 17:40:03 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 17:40:03 UTC] PHP  12. LINE\LINEBot->replyMessage() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:167
+[21-Jun-2017 18:14:21 UTC] PHP Parse error:  syntax error, unexpected ''address'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot/MessageBuilder/LocationMessageBuilder.php on line 67
+[21-Jun-2017 18:14:21 UTC] PHP Stack trace:
+[21-Jun-2017 18:14:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 18:14:21 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[21-Jun-2017 18:14:21 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[21-Jun-2017 18:14:21 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[21-Jun-2017 18:14:21 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 18:14:21 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[21-Jun-2017 18:14:21 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[21-Jun-2017 18:14:21 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 18:14:21 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[21-Jun-2017 18:14:21 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 18:14:21 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 18:14:21 UTC] PHP  12. spl_autoload_call() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:118
+[21-Jun-2017 18:14:21 UTC] PHP  13. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:118
+[21-Jun-2017 18:14:21 UTC] PHP  14. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[21-Jun-2017 18:38:39 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY), expecting ';' or '{' in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot/MessageBuilder/databa.php on line 24
+[21-Jun-2017 18:38:39 UTC] PHP Stack trace:
+[21-Jun-2017 18:38:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 18:38:39 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[21-Jun-2017 18:38:39 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[21-Jun-2017 18:38:39 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[21-Jun-2017 18:38:39 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 18:38:39 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[21-Jun-2017 18:38:39 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[21-Jun-2017 18:38:39 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 18:38:39 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[21-Jun-2017 18:38:39 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 18:38:39 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 18:38:39 UTC] PHP  12. spl_autoload_call() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:111
+[21-Jun-2017 18:38:39 UTC] PHP  13. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:111
+[21-Jun-2017 18:38:39 UTC] PHP  14. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[21-Jun-2017 18:40:55 UTC] PHP Fatal error:  Class 'LINE\LINEBot\MessageBuilder\databa' not found in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 111
+[21-Jun-2017 18:40:55 UTC] PHP Stack trace:
+[21-Jun-2017 18:40:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 18:40:55 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[21-Jun-2017 18:40:55 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[21-Jun-2017 18:40:55 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[21-Jun-2017 18:40:55 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 18:40:55 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[21-Jun-2017 18:40:55 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[21-Jun-2017 18:40:55 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 18:40:55 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[21-Jun-2017 18:40:55 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 18:40:55 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 18:41:53 UTC] PHP Fatal error:  Class 'LINE\LINEBot\MessageBuilder\PDO' not found in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot/MessageBuilder/databa.php on line 27
+[21-Jun-2017 18:41:53 UTC] PHP Stack trace:
+[21-Jun-2017 18:41:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 18:41:53 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[21-Jun-2017 18:41:53 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[21-Jun-2017 18:41:53 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[21-Jun-2017 18:41:53 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 18:41:53 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[21-Jun-2017 18:41:53 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[21-Jun-2017 18:41:53 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 18:41:53 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[21-Jun-2017 18:41:53 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 18:41:53 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 18:41:53 UTC] PHP  12. LINE\LINEBot\MessageBuilder\databa->__construct() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:111
+[21-Jun-2017 18:45:47 UTC] PHP Fatal error:  Call to undefined function LINE\LINEBot\MessageBuilder\PDO() in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot/MessageBuilder/databa.php on line 27
+[21-Jun-2017 18:45:47 UTC] PHP Stack trace:
+[21-Jun-2017 18:45:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 18:45:47 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[21-Jun-2017 18:45:47 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[21-Jun-2017 18:45:47 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[21-Jun-2017 18:45:47 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 18:45:47 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[21-Jun-2017 18:45:47 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[21-Jun-2017 18:45:47 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[21-Jun-2017 18:45:47 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[21-Jun-2017 18:45:47 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 18:45:47 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[21-Jun-2017 18:45:47 UTC] PHP  12. LINE\LINEBot\MessageBuilder\databa->__construct() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:111
+[21-Jun-2017 19:11:35 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW), expecting ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 150
+[21-Jun-2017 19:11:35 UTC] PHP Stack trace:
+[21-Jun-2017 19:11:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 19:11:35 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 19:11:35 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 19:11:35 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[21-Jun-2017 19:11:45 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW), expecting ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 150
+[21-Jun-2017 19:11:45 UTC] PHP Stack trace:
+[21-Jun-2017 19:11:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 19:11:45 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 19:11:45 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 19:11:45 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[21-Jun-2017 19:12:53 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW), expecting ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 150
+[21-Jun-2017 19:12:53 UTC] PHP Stack trace:
+[21-Jun-2017 19:12:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 19:12:53 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 19:12:53 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 19:12:53 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[21-Jun-2017 19:13:16 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW), expecting ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 150
+[21-Jun-2017 19:13:16 UTC] PHP Stack trace:
+[21-Jun-2017 19:13:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 19:13:16 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 19:13:16 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 19:13:16 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[21-Jun-2017 19:13:47 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW), expecting ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 150
+[21-Jun-2017 19:13:47 UTC] PHP Stack trace:
+[21-Jun-2017 19:13:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 19:13:47 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 19:13:47 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 19:13:47 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[21-Jun-2017 19:36:11 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW), expecting ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 153
+[21-Jun-2017 19:36:11 UTC] PHP Stack trace:
+[21-Jun-2017 19:36:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 19:36:11 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 19:36:11 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 19:36:11 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[21-Jun-2017 20:21:50 UTC] PHP Parse error:  syntax error, unexpected 'New' (T_NEW), expecting ')' in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 159
+[21-Jun-2017 20:21:50 UTC] PHP Stack trace:
+[21-Jun-2017 20:21:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jun-2017 20:21:50 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 20:21:50 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass() /home/ubuntu/workspace/public/index.php:29
+[21-Jun-2017 20:21:50 UTC] PHP   4. Composer\Autoload\includeFile() /home/ubuntu/workspace/vendor/composer/ClassLoader.php:322
+[27-Jul-2017 11:59:25 UTC] PHP Catchable fatal error:  Argument 2 passed to LINE\LINEBot::replyMessage() must be an instance of LINE\LINEBot\MessageBuilder, null given, called in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 288 and defined in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 91
+[27-Jul-2017 11:59:25 UTC] PHP Stack trace:
+[27-Jul-2017 11:59:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[27-Jul-2017 11:59:25 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[27-Jul-2017 11:59:25 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[27-Jul-2017 11:59:25 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[27-Jul-2017 11:59:25 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[27-Jul-2017 11:59:25 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[27-Jul-2017 11:59:25 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[27-Jul-2017 11:59:25 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[27-Jul-2017 11:59:25 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[27-Jul-2017 11:59:25 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[27-Jul-2017 11:59:25 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[27-Jul-2017 11:59:25 UTC] PHP  12. LINE\LINEBot->replyMessage() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:288
+[27-Jul-2017 11:59:46 UTC] PHP Catchable fatal error:  Argument 2 passed to LINE\LINEBot::replyMessage() must be an instance of LINE\LINEBot\MessageBuilder, null given, called in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 288 and defined in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 91
+[27-Jul-2017 11:59:46 UTC] PHP Stack trace:
+[27-Jul-2017 11:59:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[27-Jul-2017 11:59:46 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[27-Jul-2017 11:59:46 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[27-Jul-2017 11:59:46 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[27-Jul-2017 11:59:46 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[27-Jul-2017 11:59:46 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[27-Jul-2017 11:59:46 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[27-Jul-2017 11:59:46 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[27-Jul-2017 11:59:46 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[27-Jul-2017 11:59:46 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[27-Jul-2017 11:59:46 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[27-Jul-2017 11:59:46 UTC] PHP  12. LINE\LINEBot->replyMessage() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:288
+[27-Jul-2017 11:59:53 UTC] PHP Catchable fatal error:  Argument 2 passed to LINE\LINEBot::replyMessage() must be an instance of LINE\LINEBot\MessageBuilder, null given, called in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 288 and defined in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 91
+[27-Jul-2017 11:59:53 UTC] PHP Stack trace:
+[27-Jul-2017 11:59:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[27-Jul-2017 11:59:53 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[27-Jul-2017 11:59:53 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[27-Jul-2017 11:59:53 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[27-Jul-2017 11:59:53 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[27-Jul-2017 11:59:53 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[27-Jul-2017 11:59:53 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[27-Jul-2017 11:59:53 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[27-Jul-2017 11:59:53 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[27-Jul-2017 11:59:53 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[27-Jul-2017 11:59:53 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[27-Jul-2017 11:59:53 UTC] PHP  12. LINE\LINEBot->replyMessage() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:288
+[06-Sep-2017 14:07:25 UTC] PHP Catchable fatal error:  Argument 2 passed to LINE\LINEBot::replyMessage() must be an instance of LINE\LINEBot\MessageBuilder, null given, called in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 288 and defined in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 91
+[06-Sep-2017 14:07:25 UTC] PHP Stack trace:
+[06-Sep-2017 14:07:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[06-Sep-2017 14:07:25 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[06-Sep-2017 14:07:25 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[06-Sep-2017 14:07:25 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[06-Sep-2017 14:07:25 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[06-Sep-2017 14:07:25 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[06-Sep-2017 14:07:25 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[06-Sep-2017 14:07:25 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[06-Sep-2017 14:07:25 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[06-Sep-2017 14:07:25 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[06-Sep-2017 14:07:25 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[06-Sep-2017 14:07:25 UTC] PHP  12. LINE\LINEBot->replyMessage() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:288
+[06-Sep-2017 14:10:01 UTC] PHP Catchable fatal error:  Argument 2 passed to LINE\LINEBot::replyMessage() must be an instance of LINE\LINEBot\MessageBuilder, null given, called in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 288 and defined in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 91
+[06-Sep-2017 14:10:01 UTC] PHP Stack trace:
+[06-Sep-2017 14:10:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[06-Sep-2017 14:10:01 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[06-Sep-2017 14:10:01 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[06-Sep-2017 14:10:01 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[06-Sep-2017 14:10:01 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[06-Sep-2017 14:10:01 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[06-Sep-2017 14:10:01 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[06-Sep-2017 14:10:01 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[06-Sep-2017 14:10:01 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[06-Sep-2017 14:10:01 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[06-Sep-2017 14:10:01 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[06-Sep-2017 14:10:01 UTC] PHP  12. LINE\LINEBot->replyMessage() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:288
+[06-Sep-2017 14:10:19 UTC] PHP Catchable fatal error:  Argument 2 passed to LINE\LINEBot::replyMessage() must be an instance of LINE\LINEBot\MessageBuilder, null given, called in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 288 and defined in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 91
+[06-Sep-2017 14:10:19 UTC] PHP Stack trace:
+[06-Sep-2017 14:10:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[06-Sep-2017 14:10:19 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[06-Sep-2017 14:10:19 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[06-Sep-2017 14:10:19 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[06-Sep-2017 14:10:19 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[06-Sep-2017 14:10:19 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[06-Sep-2017 14:10:19 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[06-Sep-2017 14:10:19 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[06-Sep-2017 14:10:19 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[06-Sep-2017 14:10:19 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[06-Sep-2017 14:10:19 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[06-Sep-2017 14:10:19 UTC] PHP  12. LINE\LINEBot->replyMessage() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:288
+[06-Sep-2017 14:10:32 UTC] PHP Catchable fatal error:  Argument 2 passed to LINE\LINEBot::replyMessage() must be an instance of LINE\LINEBot\MessageBuilder, null given, called in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 288 and defined in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 91
+[06-Sep-2017 14:10:32 UTC] PHP Stack trace:
+[06-Sep-2017 14:10:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[06-Sep-2017 14:10:32 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[06-Sep-2017 14:10:32 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[06-Sep-2017 14:10:32 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[06-Sep-2017 14:10:32 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[06-Sep-2017 14:10:32 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[06-Sep-2017 14:10:32 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[06-Sep-2017 14:10:32 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[06-Sep-2017 14:10:32 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[06-Sep-2017 14:10:32 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[06-Sep-2017 14:10:32 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[06-Sep-2017 14:10:32 UTC] PHP  12. LINE\LINEBot->replyMessage() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:288
+[06-Sep-2017 14:11:07 UTC] PHP Catchable fatal error:  Argument 2 passed to LINE\LINEBot::replyMessage() must be an instance of LINE\LINEBot\MessageBuilder, null given, called in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 288 and defined in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 91
+[06-Sep-2017 14:11:07 UTC] PHP Stack trace:
+[06-Sep-2017 14:11:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[06-Sep-2017 14:11:07 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[06-Sep-2017 14:11:07 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[06-Sep-2017 14:11:07 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[06-Sep-2017 14:11:07 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[06-Sep-2017 14:11:07 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[06-Sep-2017 14:11:07 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[06-Sep-2017 14:11:07 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[06-Sep-2017 14:11:07 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[06-Sep-2017 14:11:07 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[06-Sep-2017 14:11:07 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[06-Sep-2017 14:11:07 UTC] PHP  12. LINE\LINEBot->replyMessage() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:288
+[06-Sep-2017 14:11:15 UTC] PHP Catchable fatal error:  Argument 2 passed to LINE\LINEBot::replyMessage() must be an instance of LINE\LINEBot\MessageBuilder, null given, called in /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php on line 288 and defined in /home/ubuntu/workspace/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 91
+[06-Sep-2017 14:11:15 UTC] PHP Stack trace:
+[06-Sep-2017 14:11:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[06-Sep-2017 14:11:15 UTC] PHP   2. Slim\App->run() /home/ubuntu/workspace/public/index.php:36
+[06-Sep-2017 14:11:15 UTC] PHP   3. Slim\App->process() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:295
+[06-Sep-2017 14:11:15 UTC] PHP   4. Slim\App->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:370
+[06-Sep-2017 14:11:15 UTC] PHP   5. Slim\App->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[06-Sep-2017 14:11:15 UTC] PHP   6. Slim\Route->run() /home/ubuntu/workspace/vendor/slim/slim/Slim/App.php:476
+[06-Sep-2017 14:11:15 UTC] PHP   7. Slim\Route->callMiddlewareStack() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:316
+[06-Sep-2017 14:11:15 UTC] PHP   8. Slim\Route->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/MiddlewareAwareTrait.php:122
+[06-Sep-2017 14:11:15 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() /home/ubuntu/workspace/vendor/slim/slim/Slim/Route.php:344
+[06-Sep-2017 14:11:15 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[06-Sep-2017 14:11:15 UTC] PHP  11. LINE\LINEBot\EchoBot\Route->LINE\LINEBot\EchoBot\{closure}() /home/ubuntu/workspace/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php:41
+[06-Sep-2017 14:11:15 UTC] PHP  12. LINE\LINEBot->replyMessage() /home/ubuntu/workspace/src/LINEBot/EchoBot/Route.php:288
